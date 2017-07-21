@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://124.205.112.54:8080/examples/Nectar.ipa</string>
+            <string>https://flower.beecode.cn/api/version/20867bb8-410c-43ec-8c73-e8b77fec65a6/da1be8a3-6764-46cf-b9b0-ee2a3c25ceb7/nectar.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -26,7 +26,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jiuqi.gmt</string>
+          <string>com.jiuqi.gmt.test</string>
           <key>bundle-version</key>
           <string>1</string>
           <key>kind</key>
