@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>https://flower.beecode.cn/api/version/20867bb8-410c-43ec-8c73-e8b77fec65a6/ddb9820c-42a1-4125-8b1b-f6a3967edc89/nectar.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>http://dgt.91biz.com.cn:9770/appCenter/setupImage/5BF6D637000000015566B727D7EE8942/icon.png</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.jiuqi.gmt.test</string>
+          <key>bundle-version</key>
+          <string>1</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>GMT</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
