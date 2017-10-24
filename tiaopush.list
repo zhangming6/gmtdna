@@ -26,13 +26,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jiuqi.gmt.test</string>
+          <string>beecode.nectar.mdp2</string>
           <key>bundle-version</key>
           <string>1</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>GMT</string>
+          <string>MDP</string>
         </dict>
       </dict>
     </array>
