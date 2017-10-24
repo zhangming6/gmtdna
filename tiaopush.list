@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://10.2.7.19:8080/test/1.ipa</string>
+            <string>http://10.2.7.19:8080/test/MDP.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
