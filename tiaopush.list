@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://flower.beecode.cn/api/version/20867bb8-410c-43ec-8c73-e8b77fec65a6/d689f17a-6bbb-4bd5-81b6-43811d9d1c68/nectar.ipa</string>
+            <string>http://10.2.7.19:8080/test/1.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
