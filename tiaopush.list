@@ -26,7 +26,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>beecode.nectar.mdp2</string>
+          <string>com.jiuqi.gmt.test</string>
           <key>bundle-version</key>
           <string>1</string>
           <key>kind</key>
